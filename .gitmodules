@@ -1,0 +1,3 @@
+[submodule "tournament-protobuff"]
+	path = tournament-protobuff
+	url = git@github.com:crichmond-clark/tournament-protobuff.git
